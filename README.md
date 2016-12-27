@@ -5,10 +5,11 @@ Change the style of your image, automatically.
 
 ## Example
 
-| Before | After |
-| :--: | :--: |
-| ![](docs/images/demo1-ori.jpg) | ![](docs/images/demo1-result1.png)![](docs/images/demo1-result2.png)![](docs/images/demo1-result3.png) |
-| ![](docs/images/demo2-ori.jpg) | ![](docs/images/demo2-result1.jpg)![](docs/images/demo2-result2.jpg)![](docs/images/demo2-result3.jpg) |
+| Before | After | | |
+| :--: | :--: |:--:|:--:|
+| ![](docs/images/demo1-ori.jpg) | ![](docs/images/demo1-result1.png) | ![](docs/images/demo1-result2.png) | ![](docs/images/demo1-result3.png) |
+| ![](docs/images/demo2-ori.jpg) | ![](docs/images/demo2-result1.jpg) | ![](docs/images/demo2-result2.jpg) | ![](docs/images/demo2-result3.jpg) |
+| ![](docs/images/demo3-ori.png) | ![](docs/images/demo3-result1.png) | ![](docs/images/demo3-result2.png) | &nbsp; |
 
 ## How to use
 
