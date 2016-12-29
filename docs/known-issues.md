@@ -15,3 +15,5 @@ PLEASE HELP ME TO WORK THEM OUT! THANK YOU!
     > We add a gaussian-like mask on faces as a dirty fix.
 
 1. Should I devide the semantic-style score by the items counting in the semantic class?
+
+1. We should just transfer the color layers in the function `__transfer_color`, rather than luminance and color layers.
